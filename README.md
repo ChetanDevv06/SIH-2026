@@ -1,5 +1,5 @@
 
-# Rural Healthcare Coordination Platform (RHCP)
+# CareGrid - Rural Healthcare Coordination Platform (RHCP)
 
 ![NestJS](https://img.shields.io/badge/backend-NestJS-e0234e?logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/language-TypeScript-3178c6?logo=typescript&logoColor=white)
