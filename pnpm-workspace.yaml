@@ -11,6 +11,7 @@ allowBuilds:
   prisma: true
   hermes-engine: true
   '@react-native/gradle-plugin': true
+  msgpackr-extract: true
 
 onlyBuiltDependencies:
   - "@nestjs/core"
@@ -20,3 +21,4 @@ onlyBuiltDependencies:
   - "electron"
   - "hermes-engine"
   - "@react-native/gradle-plugin"
+  - "msgpackr-extract"
